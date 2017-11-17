@@ -1,0 +1,19 @@
+{
+  "name": "liri-project",
+  "version": "1.0.0",
+  "description": "liri not siri",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeebhimji/LIRI-Project.git"
+  },
+  "author": "Zee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeebhimji/LIRI-Project/issues"
+  },
+  "homepage": "https://github.com/Zeebhimji/LIRI-Project#readme"
+}
